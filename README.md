@@ -32,8 +32,9 @@ The **Personal Finance Tracker** is a React JS application designed to help user
 - A summary display of income, expenses, and balance.
 
 ---
+## Screenshot
 
-
+![ft](https://github.com/user-attachments/assets/77799523-0c0a-464b-85d3-e1fc29f53c1a)
 
 
 
